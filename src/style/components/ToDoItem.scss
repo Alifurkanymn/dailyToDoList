@@ -1,0 +1,19 @@
+.toDoItem{
+    p{
+        cursor:pointer;
+        transition: .3s;
+    }
+    p:hover{
+        transition: .3s;
+       color :#2D70FD; 
+    }
+    .drawnText{
+        text-decoration : line-through;
+        color: gray;
+    }
+    .drawnText:hover{
+        text-decoration : line-through;
+        color: gray;
+    }
+}
+

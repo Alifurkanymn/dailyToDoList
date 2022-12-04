@@ -1,0 +1,16 @@
+.FilledButton button{
+    background-color: #2D70FD;
+    border: 1px solid #2D70FD;
+    color: white;
+    border-radius: 10px;
+    transition: .3s;
+    font-size:20px;
+    cursor: pointer;
+}
+
+.FilledButton button:hover{
+    transition: .3s;
+    border: 1px solid #2D70FD;
+    background-color: white;
+    color: #2D70FD;
+}
